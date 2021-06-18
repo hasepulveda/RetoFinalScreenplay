@@ -1,0 +1,46 @@
+com/demoblaze/automation/tasks/confirmPurchase.java
+ com.demoblaze.automation.tasks.confirmPurchase
+com/demoblaze/automation/interactions/enterData.java
+ com.demoblaze.automation.interactions.enterData
+com/demoblaze/automation/tasks/OpenTheBrowser.java
+ com.demoblaze.automation.tasks.OpenTheBrowser
+com/demoblaze/automation/tasks/addComponent.java
+ com.demoblaze.automation.tasks.addComponent
+com/demoblaze/automation/interactions/getMessage.java
+ com.demoblaze.automation.interactions.getMessage
+com/demoblaze/automation/questions/theConfirmationMessage.java
+ com.demoblaze.automation.questions.theConfirmationMessage
+com/demoblaze/automation/interactions/filForm.java
+ com.demoblaze.automation.interactions.filForm
+com/demoblaze/automation/models/Data.java
+ com.demoblaze.automation.models.Data
+com/demoblaze/automation/userinterface/CategoryPage.java
+ com.demoblaze.automation.userinterface.CategoryPage
+com/demoblaze/automation/userinterface/LoginPage.java
+ com.demoblaze.automation.userinterface.LoginPage
+com/demoblaze/automation/userinterface/ComponentPage.java
+ com.demoblaze.automation.userinterface.ComponentPage
+com/demoblaze/automation/utils/executionData.java
+ com.demoblaze.automation.utils.executionData
+com/demoblaze/automation/models/PayComponentData.java
+ com.demoblaze.automation.models.PayComponentData
+com/demoblaze/automation/userinterface/HomePage.java
+ com.demoblaze.automation.userinterface.HomePage
+com/demoblaze/automation/tasks/logInTo.java
+ com.demoblaze.automation.tasks.logInTo
+com/demoblaze/automation/interactions/enterThe.java
+ com.demoblaze.automation.interactions.enterThe
+com/demoblaze/automation/tasks/goTo.java
+ com.demoblaze.automation.tasks.goTo
+com/demoblaze/automation/userinterface/CartPage.java
+ com.demoblaze.automation.userinterface.CartPage
+com/demoblaze/automation/tasks/confirm.java
+ com.demoblaze.automation.tasks.confirm
+com/demoblaze/automation/exceptions/Exceptions.java
+ com.demoblaze.automation.exceptions.Exceptions
+com/demoblaze/automation/questions/successfulPurchase.java
+ com.demoblaze.automation.questions.successfulPurchase
+com/demoblaze/automation/interactions/selectCategory.java
+ com.demoblaze.automation.interactions.selectCategory
+com/demoblaze/automation/tasks/searchThe.java
+ com.demoblaze.automation.tasks.searchThe
